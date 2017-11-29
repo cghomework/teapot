@@ -1,0 +1,66 @@
+﻿  main.cpp
+f:\学习\大三上\图形学\teapot\button.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\学习\大三上\图形学\teapot\button.h(101): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\学习\大三上\图形学\teapot\button.h(102): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\学习\大三上\图形学\teapot\button.h(105): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\学习\大三上\图形学\teapot\button.h(106): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\学习\大三上\图形学\teapot\button.h(126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+f:\学习\大三上\图形学\teapot\button.h(200): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\学习\大三上\图形学\teapot\obj.h(15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+f:\学习\大三上\图形学\teapot\obj.h(71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+f:\学习\大三上\图形学\teapot\obj.h(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+f:\学习\大三上\图形学\teapot\obj.h(44): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: 参见“sscanf”的声明
+f:\学习\大三上\图形学\teapot\obj.h(64): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 参见“strtok”的声明
+f:\学习\大三上\图形学\teapot\obj.h(65): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 参见“strtok”的声明
+f:\学习\大三上\图形学\teapot\obj.h(70): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: 参见“sscanf”的声明
+f:\学习\大三上\图形学\teapot\obj.h(72): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 参见“strtok”的声明
+f:\学习\大三上\图形学\teapot\obj.h(82): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习\大三上\图形学\teapot\obj.h(84): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习\大三上\图形学\teapot\main.cpp(23): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(24): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(31): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(32): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(37): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(38): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(41): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(42): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(45): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(46): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+f:\学习\大三上\图形学\teapot\main.cpp(125): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\学习\大三上\图形学\teapot\main.cpp(133): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\学习\大三上\图形学\teapot\main.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+f:\学习\大三上\图形学\teapot\main.cpp(217): warning C4305: “*=”: 从“double”到“GLfloat”截断
+f:\学习\大三上\图形学\teapot\main.cpp(220): warning C4305: “/=”: 从“double”到“GLfloat”截断
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\utility(189): warning C4244: “初始化”: 从“int”转换到“GLfloat”，可能丢失数据
+  f:\学习\大三上\图形学\teapot\main.cpp(162): note: 参见对正在编译的函数 模板 实例化“std::pair<int,GLfloat>::pair<int&,int&,void,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=int &,
+              _Other2=int &
+          ]
+  f:\学习\大三上\图形学\teapot\main.cpp(162): note: 参见对正在编译的函数 模板 实例化“std::pair<int,GLfloat>::pair<int&,int&,void,0>(_Other1,_Other2) noexcept”的引用
+          with
+          [
+              _Other1=int &,
+              _Other2=int &
+          ]
+  teapot.vcxproj -> F:\学习\大三上\图形学\teapot\Debug\teapot.exe
+  teapot.vcxproj -> F:\学习\大三上\图形学\teapot\Debug\teapot.pdb (Partial PDB)
